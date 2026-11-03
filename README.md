@@ -40,4 +40,4 @@ I am a physical chemist at the University of Duisburg-Essen working at the inter
 
 ---
 
-*Open to computational research and scientific-computing roles that combine domain expertise with rigorous data analysis and reproducible methods.*
+*Open to electrochemical research in the lab, computational research and scientific-computing roles that combine domain expertise with rigorous data analysis and reproducible methods.*
