@@ -19,7 +19,7 @@ I am a physical chemist at the University of Duisburg-Essen working at the inter
 
 ## Selected work
 
-- **[single-atom-diffusion](https://github.com/ddiesing/single-atom-diffusion)** — Interactive Monte Carlo simulation of a silver adatom random walk on Ag(111).  
+- **[single-atom-diffusion](https://github.com/ddiesing/single-atom-diffusion-web-app)** — Interactive Monte Carlo simulation of a silver adatom random walk on Ag(111).  
   Live demo: [detlef.diesing.pro/random-walk](https://detlef.diesing.pro/random-walk/?seed=1847528449)  
   Based on Meyburg & Diesing, *J. Chem. Educ.* 2017.
 
