@@ -6,8 +6,7 @@ I am a physical chemist at the University of Duisburg-Essen working at the inter
 
 ## Research focus
 
-- Surface and interface chemistry
-- Electrochemistry and thin-film tunnel junctions
+- Surface and interface chemistry, electrochemistry
 - Ultrafast dynamics and charge-carrier processes
 - Data analysis, analytical fitting, and scientific computing applied to experimental datasets
 
@@ -15,15 +14,23 @@ I am a physical chemist at the University of Duisburg-Essen working at the inter
 
 - Data analysis and numerical methods
 - Analytical fitting and model derivation
-- Reproducible workflows for experimental datasets
-- Visualization of scientific results
+- Monte Carlo simulations of surface processes
+- Reproducible workflows and interactive scientific visualizations
 
 ## Selected work
 
-- **[bode_fit](https://github.com/ddiesing/bode_fit)** — Analytical fitting functions for electrochemical impedance / Bode data (derived computationally rather than via traditional symbolic tools).
+- **[single-atom-diffusion](https://github.com/ddiesing/single-atom-diffusion)** — Interactive Monte Carlo simulation of a silver adatom random walk on Ag(111).  
+  Live demo: [detlef.diesing.pro/random-walk](https://detlef.diesing.pro/random-walk/?seed=1847528449)  
+  Based on Meyburg & Diesing, *J. Chem. Educ.* 2017.
+
+- **[bode_fit](https://github.com/ddiesing/bode_fit)** — Analytical fitting functions for electrochemical impedance / Bode data.
+
 - **[water](https://github.com/ddiesing/water)** — Experimental data on aqueous solutions (conductivity, temperature dependence, and related measurements).
+
 - **[electrochemistry](https://github.com/ddiesing/electrochemistry)** — Electrochemical datasets and analysis.
+
 - **[universal_indicator_conductivity](https://github.com/ddiesing/universal_indicator_conductivity)** — Conductivity and indicator-related measurements.
+
 - **[gold](https://github.com/ddiesing/gold)** — Surface / materials-related experimental data.
 
 ## Links
